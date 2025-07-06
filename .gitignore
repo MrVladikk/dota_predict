@@ -1,0 +1,8 @@
+# Файл с данными, его не нужно загружать на GitHub
+dota_matches_data.json
+
+# Системные папки Python
+__pycache__/
+env/
+venv/
+*.env
